@@ -2,9 +2,9 @@
     "name": "07-restserver",
     "version": "1.0.0",
     "description": " really cool app",
-    // "engines": {
-    //     "node": "10.15.3"
-    // },
+    "engines": {
+        "node": "10.15.3"
+    },
     "main": "index.js",
     "scripts": {
         "start": "node server/server.js",
